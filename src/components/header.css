@@ -1,0 +1,35 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.site-header {
+  background-color:  #2B3844;
+}
+
+.site-header-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-about {
+  text-decoration: none;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  color: #fff;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 33px;
+  display: inline;
+}
+
+.header-mode {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+}

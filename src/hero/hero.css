@@ -1,0 +1,52 @@
+
+.site-hero-form {
+  display: flex;
+  padding-top: 48px;
+}
+.form-input{
+  Width:480px;
+  Height:56px;
+  background: #2B3844;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+  outline: none;
+  color: #fff;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  padding-left: 40px;
+  margin-right: auto;
+
+}
+::placeholder {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color:#fff;
+}
+
+.form-select {
+  Width:200px;
+  height:56px;
+  background: #2B3844;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+  color:#fff;
+  outline: none;
+  padding-left: 20px;
+}
+
+.form-select-option {
+  color: #fff;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  padding-left: 20px;
+  margin:0;
+}
